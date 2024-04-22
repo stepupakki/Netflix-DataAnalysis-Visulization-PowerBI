@@ -2,6 +2,8 @@
 Get your hands dirty with Data Analysis &amp; Data Visualization
 
 **::::::::END GOAL::::::::**
+
+
 <img width="627" alt="image" src="https://github.com/stepupakki/Netflix-DataAnalysis-Visulization-PowerBI/assets/63256869/21272644-2d07-45f9-844c-74a29aa5df21">
 
 
